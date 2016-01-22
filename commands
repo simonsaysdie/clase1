@@ -1,0 +1,40 @@
+cmd + K - clear
+path = /Users/tuuser/Documents/hola.txt
+cd - Home de tu user
+cd .. - atrás
+cd path
+
+pwd - Imprime el path
+
+ls - List folder content
+ls -a - List folder content with .
+ls -l - Contents with info
+ls -la - . content with info
+
+mkdir - Creates folder
+
+rm - Removes file
+rm  -rf - Removes folder and its content
+
+touch - Create file
+
+less - Ver archivos
+q - Salir de less
+
+vi - Ver y editar archivos
+:q - Salir, pero no te deja si tienes cambios
+:q! - Salir y no guardar los cambios
+:x - Salir y guardar
+:w - Guardar
+
+cat [nombre de archivo] - Imprime su contenido
+cat [archivo] >> [archivo] - Copia los contenidos de uno en otro
+
+mv [qué] [a dónde] - Mueve archivos y fólders
+
+cp [nombre file] [nuevo file] - Copy file contents / Así haces rename
+
+
+Shortcuts
+!$ - Primer argumento del comando anterior
+!! - El último comando y sus argumentos / útil para sudo

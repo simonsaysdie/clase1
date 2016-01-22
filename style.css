@@ -1,0 +1,44 @@
+* {
+	font-family: Garamond;
+	text-align: center;
+}
+
+
+p,
+h1 {
+	color: yellow; 
+	text-shadow: 1px 1px 5px red;
+	text-align: center; 
+	text-transform: uppercase;
+
+}
+
+#venture {
+
+}
+
+img {
+	width: 304px;
+	height:228px;
+	border-radius:50%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+form {
+	color: white;
+}
+
+
+input[type="password"] {
+	background-color: black;
+	color: white;
+	display: block;
+	margin: 0 auto
+}
+input[type="radio"]{
+	display: block;
+	margin:  0 auto;
+}
+
